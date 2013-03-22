@@ -1,4 +1,4 @@
 android-gradle-example
 ======================
 
-Skeleton project for android gradle
+Example android project built with gradle, useful for cloning purposes for new projects
